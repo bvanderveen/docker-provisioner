@@ -1,4 +1,4 @@
-# ipxcore-docker
+# docker-provisioner
 
 This is a dumb-dumb script I cobbled together to provision an IPXCore KVM (Ubuntu 13.10 x64) to run Docker containers. It'll probably work in a lot of other contexts. 
 
